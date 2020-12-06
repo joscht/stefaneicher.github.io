@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Bring your software engineering to the next level'
 description: null
 image: null
 author: null
