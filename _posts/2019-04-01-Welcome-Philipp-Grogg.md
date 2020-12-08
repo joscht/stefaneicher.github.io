@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Herzlich Wilkommen Philipp Grogg
+title: Herzlich Willkommen Philipp Grogg
 description: Feugiat amet tempus
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Herzlich Wilkommen Michel Meyer
+title: Herzlich Willkommen Michel Meyer
 description: Feugiat amet tempus
 ---
 

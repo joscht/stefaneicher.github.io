@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Herzlich Wilkommen Thomas Jost
+title: Herzlich Willkommen Thomas Jost
 description: Feugiat amet tempus
 image: assets/images/
 ---
