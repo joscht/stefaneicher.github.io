@@ -63,4 +63,31 @@ Damit wir erfolgreich Projekte in einer hohen Qualität absolvieren können, hab
 
 </div>
 </section>
+
+<section id="two">
+	<div class="inner">
+		<header class="major">
+			<h1>Team</h1>
+		</header>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span>Michel Meyer</div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Thomas Jost</div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Philipp Grogg</div>
+		<!-- Break -->
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Marc Hofer</div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span>Stefan Eicher</div>
+	</div>
 </div>
+<p>
+</p> 
+
+</div>
+</section>
+
+
+
+
+</div>
+
+
