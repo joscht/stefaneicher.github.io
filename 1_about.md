@@ -44,4 +44,23 @@ Wir freuen uns, Sie bei Ihren Projekten unterstützen zu dürfen.
 
 </div>
 </section>
+<section id="two">
+	<div class="inner">
+		<header class="major">
+			<h1>Werte</h1>
+		</header>
+<p>
+Software Entwicklung ist ein Teamsport, welcher sich wie keine andere Disziplin erneuert und wandelt. 
+Damit wir erfolgreich Projekte in einer hohen Qualität absolvieren können, haben wir 4 Grundwerte:</p> 					
+<ul>
+  <li>Sei offen für Neues</li>
+  <li>Fördere deine Teammitglieder</li>
+  <li>Konzentriere dich auf die Wirkung</li>
+  <li>Handle schnell und überlegt</li>
+</ul>
+<p>
+</p> 
+
+</div>
+</section>
 </div>
