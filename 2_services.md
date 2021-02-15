@@ -23,7 +23,7 @@ nav-menu: true
         Die Disroop AG erkennt und unterstützt auch den grundsätzlichen Wandel im Bereich Testing (Testautomatisation und Shift-Left) und beherrscht die Praktiken rund um DevOps und Continuous Delivery. 
         </p>
         <h2>
-        Unser Dienstleistungs- und Beratungsangebot:
+        Unser Dienstleistungs- und Beratungsangebot
         </h2>
         
         <h4>Software Architektur und Entwicklung</h4>
@@ -34,7 +34,7 @@ nav-menu: true
 
         <h4>Continuous Integration & Continuous Delivery</h4>
         <p>
-        Durch die Digitalisierung steigt die Nachfrage nach Softwarelösungen. Trotzdem Sind Unternehmen bestrebt diese Vorhaben schnell, skalierbar und in hoher Qualität voran zu treiben. Ein hohe Automation nach den Praktiken der Continuous Integration and Continuous Delivery ist die Lösung. Die Disroop AG hat dies in verschiedensten Projekten und Branchen in Grossunternehmen erfolgreich umgesetzt.
+        Durch die Digitalisierung steigt die Nachfrage nach Softwarelösungen. Trotzdem sind Unternehmen bestrebt diese Vorhaben schnell, skalierbar und in hoher Qualität voran zu treiben. Ein hohe Automation nach den Praktiken der Continuous Integration and Continuous Delivery ist die Lösung. Die Disroop AG hat dies in verschiedensten Projekten und Branchen in Grossunternehmen erfolgreich umgesetzt.
         </p>
 
         <h4>Moderne Software Entwicklung Praktiken (Lean, Agile, XP)</h4>
