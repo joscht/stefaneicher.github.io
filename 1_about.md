@@ -44,4 +44,50 @@ Wir freuen uns, Sie bei Ihren Projekten unterstützen zu dürfen.
 
 </div>
 </section>
+<section id="two">
+	<div class="inner">
+		<header class="major">
+			<h1>Werte</h1>
+		</header>
+<p>
+Software Entwicklung ist ein Teamsport, welcher sich wie keine andere Disziplin erneuert und wandelt. 
+Damit wir erfolgreich Projekte in einer hohen Qualität absolvieren können, haben wir 4 Grundwerte:</p> 					
+<ul>
+  <li>Sei offen für Neues</li>
+  <li>Fördere deine Teammitglieder</li>
+  <li>Konzentriere dich auf die Wirkung</li>
+  <li>Handle schnell und überlegt</li>
+</ul>
+<p>
+</p> 
+
 </div>
+</section>
+
+<section id="two">
+	<div class="inner">
+		<header class="major">
+			<h1>Team</h1>
+		</header>
+<div class="box alt">
+	<div class="row 50% uniform">
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span>Michel Meyer</div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Thomas Jost</div>
+		<div class="4u$"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Philipp Grogg</div>
+		<!-- Break -->
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic10.jpg %}" alt="" /></span>Marc Hofer</div>
+		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span>Stefan Eicher</div>
+	</div>
+</div>
+<p>
+</p> 
+
+</div>
+</section>
+
+
+
+
+</div>
+
+
