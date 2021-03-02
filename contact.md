@@ -3,6 +3,7 @@ layout: post
 title: Kontakt
 description: 
 nav-menu: true
+tile-order: 3
 ---
 
 <div class="contact-method">

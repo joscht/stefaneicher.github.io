@@ -2,6 +2,7 @@
 layout: page
 title: Über uns
 nav-menu: true
+tile-order: 1
 ---
 
 <!-- Main -->

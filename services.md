@@ -3,6 +3,7 @@ layout: page
 title: Dienstleistungen
 <!--image: assets/images/imageedit_4_7567746709.jpg--> 
 nav-menu: true
+tile-order: 2
 ---
 
 <!-- Main -->
