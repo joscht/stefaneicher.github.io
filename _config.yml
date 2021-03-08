@@ -19,7 +19,8 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: https://gitlab.com/disroop
+github_url: https://github.com/disroop
+linkedin_url: https://www.linkedin.com/company/disroop
 
 # build settings
 markdown: kramdown
