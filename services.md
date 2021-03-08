@@ -38,11 +38,6 @@ tile-order: 2
         Durch die Digitalisierung steigt die Nachfrage nach Softwarelösungen. Trotzdem sind Unternehmen bestrebt diese Vorhaben schnell, skalierbar und in hoher Qualität voran zu treiben. Ein hohe Automation nach den Praktiken der Continuous Integration and Continuous Delivery ist die Lösung. Die Disroop AG hat dies in verschiedensten Projekten und Branchen in Grossunternehmen erfolgreich umgesetzt.
         </p>
 
-        <h4>Moderne Software Entwicklung Praktiken (Lean, Agile, XP)</h4>
-        <p>
-        3 Sätze TODO
-        </p>
-        	
         <h4>Unternehmensberatung</h4>
         <p>
         Beratung für Agile Transformation, die Evaluierung eines neuen Technologie-Stacks oder Architektur kann im Softwareumfeld nur erfolgreich umgesetzt werden, wenn dies von Leuten vermittelt wird mit langjähriger Erfahrung und einer hohen Leidenschaft für Softwareentwicklung. Die Disroop AG hat dies schon mehrfach gezeigt und kann Ihnen dabei helfen.
